@@ -1,39 +1,62 @@
 <div align="center">
 
-# Jaswanth Aalla Balaji
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jaswanth+%F0%9F%91%8B;Data+Scientist;Agentic+AI+%7C+RAG+%7C+LLM+Systems;Open+to+full-time+opportunities)](https://git.io/typing-svg)
 
-**Data Scientist** &nbsp;·&nbsp; Pennsylvania, USA &nbsp;·&nbsp; Open to full-time opportunities
+**Pennsylvania, USA &nbsp;·&nbsp; F-1 OPT &nbsp;·&nbsp; Full Work Authorization**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanthab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://v0-jaswanthaallabalaji.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jashu737)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jashu737@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanthab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-jaswanthaallabalaji.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jashu737)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashu737@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaswanthAB&style=flat-square&color=grey)
 
 </div>
 
 ---
 
-I build end-to-end data and AI systems — from ETL pipelines and lakehouse architectures to agentic LLM applications and RAG workflows. Currently at **Community Dreams Foundation**, developing AI automation tools and managing data infrastructure.
+## About Me
+
+I build end-to-end data and AI systems — from ETL pipelines and lakehouse architectures to agentic LLM applications and RAG workflows. Currently at **Community Dreams Foundation**, where I develop AI automation tools and manage data infrastructure.
+
+- 🔭 Currently building a **Voice Interview Coach** — Whisper + Claude API + Kokoro TTS + FastAPI + React
+- 📝 Writing about agentic AI and data engineering on [Medium](https://medium.com/@jashu737)
+- 🎓 M.P.S. in Data Science · University at Buffalo, SUNY · GPA 3.83
+- 📄 IEEE-published research on multimodal CNN disease prediction
+- 💼 Open to **Data Scientist**, **Data Engineer**, and **ML Engineer** roles
 
 ---
 
-## Skills
+## Tech Stack
 
-**Languages** &nbsp;&nbsp; `Python` &nbsp;`SQL` &nbsp;`JavaScript`
+**AI & Machine Learning**
 
-**AI & Machine Learning** &nbsp;&nbsp; `LangChain` &nbsp;`LangGraph` &nbsp;`OpenAI API` &nbsp;`Claude API` &nbsp;`Whisper` &nbsp;`RAG` &nbsp;`ChromaDB` &nbsp;`pgvector`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Data Engineering** &nbsp;&nbsp; `Redpanda` &nbsp;`MinIO` &nbsp;`DuckDB` &nbsp;`Medallion Architecture` &nbsp;`ETL Pipelines` &nbsp;`Azure Data Factory`
+**Data Engineering**
 
-**BI & Analytics** &nbsp;&nbsp; `Power BI` &nbsp;`DAX` &nbsp;`Power Query` &nbsp;`Databricks`
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-**Infrastructure & Tools** &nbsp;&nbsp; `FastAPI` &nbsp;`Docker` &nbsp;`React` &nbsp;`Supabase` &nbsp;`Vercel` &nbsp;`Azure` &nbsp;`MCP Protocol`
+**BI & Analytics**
 
-**Certifications**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Microsoft PL-300 &nbsp;·&nbsp; Power BI Data Analyst Associate
-- Microsoft DP-600 &nbsp;·&nbsp; Fabric Analytics Engineer Associate
-- Databricks Generative AI Fundamentals
+**Infrastructure & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -50,19 +73,23 @@ I build end-to-end data and AI systems — from ETL pipelines and lakehouse arch
 
 ---
 
-## Education
+## GitHub Stats
 
-**M.P.S. in Data Science** &nbsp;·&nbsp; University at Buffalo, SUNY &nbsp;·&nbsp; GPA 3.83
+<div align="center">
 
-**Integrated M.Tech in Software Engineering** &nbsp;·&nbsp; VIT University
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jaswanthAB&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthAB&layout=compact&theme=dark&hide_border=true" />
+
+</div>
 
 ---
 
-## Currently
+## Certifications
 
-- Building a **[Voice Interview Coach](https://github.com/jaswanthAB)** — Whisper + Claude API + Kokoro TTS + FastAPI + React
-- Writing about agentic AI and data engineering on [Medium](https://medium.com/@jashu737)
-- Open to **Data Scientist**, **Data Engineer**, and **ML Engineer** roles
+- Microsoft **PL-300** &nbsp;·&nbsp; Power BI Data Analyst Associate
+- Microsoft **DP-600** &nbsp;·&nbsp; Fabric Analytics Engineer Associate
+- Databricks **Generative AI Fundamentals**
 
 ---
 
